@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+PROJECT_DSML_Infotact.pdf
+*.npy
+*.csv
+*.log
